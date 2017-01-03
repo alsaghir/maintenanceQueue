@@ -1,7 +1,6 @@
 #include "WorkShop.h"
 #include <string>
 
-
 WorkShop::WorkShop(std::string Name)
 {
 	mName = Name;
